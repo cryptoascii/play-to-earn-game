@@ -20,7 +20,7 @@ export default function MintContainer() {
       <p>Claim your Character NFT to start playing!</p>
 
       <div className={`${styles.nftBox} ${styles.spacerBottom}`}>
-        <img src="./tiki#6003.png" style={{ height: 200 }} />
+        <img src="./6003.png" style={{ height: 200 }} />
       </div>
 
       <button
