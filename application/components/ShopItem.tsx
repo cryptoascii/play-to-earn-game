@@ -54,7 +54,7 @@ export default function ShopItem({ item, pickaxeContract }: Props) {
         Price:{" "}
         <b>
           {claimCondition && ethers.utils.formatUnits(claimCondition?.price)}{" "}
-          GEM
+          WTIKI
         </b>
       </p>
 

@@ -4,7 +4,7 @@ import EditionDropMetadata from "../types/EditionDropMetadata";
 
 const GoldGem = (
   <div className={styles.slide}>
-    <img src="./gold-gem.png" height="48" width="48" alt="gold-gem" />
+    <img src="./tiki_logo_x1.png" height="48" width="48" alt="gold-gem" />
   </div>
 );
 
@@ -14,7 +14,7 @@ type Props = {
 
 export default function GameplayAnimation({ pickaxe }: Props) {
   if (!pickaxe) {
-    return <div style={{ marginLeft: 8 }}>I need a pickaxe!</div>;
+    return <div style={{ marginLeft: 8 }}>I need a fking weapon⚔!</div>;
   }
 
   return (

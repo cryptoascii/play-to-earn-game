@@ -83,7 +83,7 @@ export default function CurrentGear({
           marginTop: 24,
         }}
       >
-        <img src="./mine.gif" height={64} width={64} alt="character-mining" />
+        <img src="./tiki#6003.png" height={64} width={64} alt="character-mining" />
         <GameplayAnimation pickaxe={pickaxe} />
       </div>
     </div>
