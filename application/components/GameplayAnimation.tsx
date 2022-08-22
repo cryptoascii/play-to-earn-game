@@ -4,7 +4,7 @@ import EditionDropMetadata from "../types/EditionDropMetadata";
 
 const GoldGem = (
   <div className={styles.slide}>
-    <img src="./gold-gem.png" height="48" width="48" alt="gold-gem" />
+    <img src="./tiki_logo_x1.png" height="48" width="48" alt="gold-gem" />
   </div>
 );
 
