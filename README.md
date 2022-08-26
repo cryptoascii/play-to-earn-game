@@ -1,5 +1,3 @@
-# thirdweb Play-to-Earn Example
-
 This example project is a simple Play-to-Earn (P2E) game!
 
 ## The Idea
